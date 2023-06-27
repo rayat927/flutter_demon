@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200152365957",
+    "project_id": "fir-react-authentication-7b5fd",
+    "storage_bucket": "fir-react-authentication-7b5fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200152365957:android:8171e6553127a99b0ce2ec",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200152365957-i9eg75vqfvk0245unhj6dsme31n8raam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "490df6ea920c066ad6695b1fa4a5d829a7fba641"
+          }
+        },
+        {
+          "client_id": "200152365957-nemect9nftfckgthfb653ei63i3vjo7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFrGqJlgh3LUjtu8kpy8Fm4m-m4Uwuxmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200152365957-7ic98vfb88eveioaf0trm509ncdgsk7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
